@@ -24,6 +24,8 @@
 @@||*.ggpht.com^
 @@||kgc.edu.vn^
 @@||*.kgc.edu.vn^
+@@||angiang.gov.vn^
+@@||*.angiang.govs.vn^
 @@||zoom.us^
 @@||*.zoom.us^
 @@||meet.google.com^
