@@ -69,3 +69,14 @@
 @@||*.hstatic.net^
 @@||zaloapi.com^
 @@||*.zaloapi.com^
+@@||k12online.vn^
+@@||*.k12online.vn^
+@@||support.k12online.vn^
+@@||cdn.k12online.vn^
+@@||media.k12online.vn^
+@@||api.k12online.vn^  
+@@||cloudfront.net^
+@@||viettel.vn^
+@@||*.viettel.vn^
+@@||viettelid.vn^
+@@||sso.viettel.vn^ 
