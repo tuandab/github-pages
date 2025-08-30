@@ -80,3 +80,5 @@
 @@||*.viettel.vn^
 @@||viettelid.vn^
 @@||sso.viettel.vn^ 
+@@||baohiemxahoi.gov.vn^
+@@||*.baohiemxahoi.gov.vn^
